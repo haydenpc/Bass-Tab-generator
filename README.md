@@ -120,3 +120,21 @@ E|---0---2---0----|
 - Prioritize playability and musical coherence within the given constraints.
 - Key-specific maps are based on simplified major scale theory for this assignment.
 - No image generation is required unless explicitly requested (confirm with the user first).
+
+```
+Command:
+
+py bass_tab_generator.py
+
+```
+
+```
+Expected Output:
+
+enter a key (E,A,G) press enter for random key: e
+E|------5-------8-9-----1---------|
+A|0-----------11-------------------|
+D|--3-8---7---------4-1-----------|
+G|----------10---------------------|
+
+```
